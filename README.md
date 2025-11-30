@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Zero-Shot Text Classification Banner" width="100%">
+</p>
+
 # 📘 Zero-Shot Text Classification using Pretrained Transformers
 
 This project demonstrates **Zero-Shot Learning (ZSL)** using pretrained Transformer models. 
