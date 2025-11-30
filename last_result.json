@@ -1,0 +1,15 @@
+{
+  "text": "Apple released a new iPhone with longer battery life.",
+  "labels": [
+    "technology",
+    "sports",
+    "politics",
+    "food"
+  ],
+  "scores": [
+    0.9826745986938477,
+    0.009756327606737614,
+    0.003910410217940807,
+    0.00365865183994174
+  ]
+}
